@@ -1,0 +1,11 @@
+5
+4
+%AAA=I
+%BBB=I
+%AND=|
+%NOT=!
+%ZZZ=O
+AAA->AND0
+BBB->AND1
+AND->NOT0
+NOT->ZZZ0
